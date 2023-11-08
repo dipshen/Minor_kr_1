@@ -10,15 +10,15 @@
   width: 79vw;
   display: flex;
   margin: 0 auto;
-  margin-top: 0.5vw;
+  margin-top: 10vw;
   justify-content: space-between;
 }
 .im_merch > div > a {
   display: block;
-  background-size: 26vw;
+  background-size: 20vw;
   background-repeat: no-repeat;
-  width: 26vw;
-  height: 26vw;
+  width: 20vw;
+  height: 20vw;
 }
 .im_merch > .im_merch_1 > a:nth-child(1) {
   background-image: url("../images/m_1.png");
