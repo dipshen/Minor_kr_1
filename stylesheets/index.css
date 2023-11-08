@@ -1,7 +1,7 @@
 body {
   margin: 0;
 }
-h1, h2, p, a, li {
+h1, h2, p, a, li, label {
   font-family: 'Roboto', sans-serif;
 }
 h1 {
@@ -102,6 +102,7 @@ h2:nth-of-type(1) {
 }
 form{
   margin-top: 10vw;
+  margin-bottom: 10vw;
 }
 input {
   width: 20vw;

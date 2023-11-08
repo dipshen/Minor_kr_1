@@ -47,3 +47,10 @@
 .im_merch > .im_merch_3 > a:nth-child(3) {
   background-image: url("../images/m_9.png");
 }
+label {
+  font-size: 1.8vw;
+  font-weight: 500;
+  text-decoration: none;
+  color: #000;
+  margin-left: 10vw;
+}
