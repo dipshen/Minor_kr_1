@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Решение алгоритмической задачи</title>
+    <script type="text/javascript">
+      const a = prompt("Введите длину ребра куба:");
+      const h = prompt("Введите высоту цилиндра:");
+      const r = prompt("Введите радиус цилиндра:");
+      const m = prompt("Введите объём жидкости:");
+
+      if (a**3 == m && 3.14 * r*r*h == m) {
+      alert("Можно заполнить обе ёмкости.");
+      } else if (a**3 == m) {
+      alert("Можно заполнить только первую ёмкость.");
+      } else if (3.14 * r*r*h == m) {
+      alert("Можно заполнить только вторую ёмкость.");
+      } else {
+      alert("Нельзя заполнить ни одну из ёмкостей.");
+      }
+    </script>
+  </head>
+  <body>
+    
+  </body>
+</html>

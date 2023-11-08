@@ -1,0 +1,31 @@
+.mer {
+  margin-left: 10vw;
+  margin-top: 4.5vw;
+}
+p {
+  font-size: 1.8vw;
+  font-weight: 500;
+  margin-left: 10vw;
+}
+li > a {
+  text-decoration: none;
+  color: #000;
+}
+
+.ol_2 {
+  margin-top: 40vw;
+  margin-bottom: 10vw;
+}
+
+li > a {
+  font-size: 1.8vw;
+  font-weight: 500;
+}
+li {
+  margin-left: 10vw;
+  font-size: 1.8vw;
+  font-weight: 500;
+}
+#li_2, #li_3 {
+  margin-top: 15vw;
+}

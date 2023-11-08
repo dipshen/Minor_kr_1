@@ -1,0 +1,49 @@
+.mer {
+  margin-left: 10vw;
+  margin-top: 4.5vw;
+}
+.im_merch {
+  margin-top: 4vw;
+  margin-bottom: 10vw;
+}
+.im_merch > div {
+  width: 79vw;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 0.5vw;
+  justify-content: space-between;
+}
+.im_merch > div > a {
+  display: block;
+  background-size: 26vw;
+  background-repeat: no-repeat;
+  width: 26vw;
+  height: 26vw;
+}
+.im_merch > .im_merch_1 > a:nth-child(1) {
+  background-image: url("../images/m_1.png");
+}
+.im_merch > .im_merch_1 > a:nth-child(2) {
+  background-image: url("../images/m_2.png");
+}
+.im_merch > .im_merch_1 > a:nth-child(3) {
+  background-image: url("../images/m_3.png");
+}
+.im_merch > .im_merch_2 > a:nth-child(1) {
+  background-image: url("../images/m_4.png");
+}
+.im_merch > .im_merch_2 > a:nth-child(2) {
+  background-image: url("../images/m_5.png");
+}
+.im_merch > .im_merch_2 > a:nth-child(3) {
+  background-image: url("../images/m_6.png");
+}
+.im_merch > .im_merch_3 > a:nth-child(1) {
+  background-image: url("../images/m_7.png");
+}
+.im_merch > .im_merch_3 > a:nth-child(2) {
+  background-image: url("../images/m_8.png");
+}
+.im_merch > .im_merch_3 > a:nth-child(3) {
+  background-image: url("../images/m_9.png");
+}
